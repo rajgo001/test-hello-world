@@ -2,13 +2,17 @@
 title: "Hello World"
 subtitle: "We are from India"
 author: "gotekar raj"
+subtitle: "We all indians "
+author: "Amol Raut"
 format: html
 editor: visual
 theme: sketchy
 ---
 
 ## Quarto For r language 
+## Quarto For All R Languages
 
+The r language is easy
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
@@ -16,7 +20,7 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
-1 + 1 + 3 + 5
+1 + 1 + 38+ 9
 ```
 
 You can add options to executable code like this
