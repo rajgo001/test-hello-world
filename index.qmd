@@ -1,13 +1,14 @@
 ---
-title: "Hello World"
+title: "Hello  New World"
 subtitle: "We are from India"
 author: "Ajay Koli"
 format: html
 editor: visual
 ---
 
-## Quarto For All the Languages
+## Quarto For All R Languages
 
+The r language is easy
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
